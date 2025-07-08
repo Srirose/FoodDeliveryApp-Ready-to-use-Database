@@ -11,10 +11,10 @@ It contains database for a food delivery app that is ready to attach with any fr
 # Tools used - MySQL workbench 8.0
 
 # Tables Created
-  Users - To store data of user
-  Restaurants - To store the restaurants 
-  Items - To store the available items in each restaurant based on Foreign Key reference
-  Orders - To store the customer's orders
-  Order_Item - To store the ordered items and their total
+   *Users - To store data of user
+   *Restaurants - To store the restaurants 
+   *Items - To store the available items in each restaurant based on Foreign Key reference
+   *Orders - To store the customer's orders
+   *Order_Item - To store the ordered items and their total
 
 Now the schema is ready to use in any UI of food delivery app .
